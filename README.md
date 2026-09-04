@@ -27,7 +27,7 @@ refaktoriert werden, bevor man ihn auf Nutzende loslässt.
 | [german-lernwerkstatt](https://github.com/whks-wu/german-lernwerkstatt) | Übungswerkzeug für den Deutschunterricht mit drei Aufgabentypen und einer Redaktionsoberfläche, über die sich die Aufgabensammlung ohne eine Zeile Code pflegen lässt. Ohne Framework, ohne Abhängigkeiten. [Live](https://runner-german-lernwerkstatt.vercel.app) |
 | [runner-studio](https://github.com/whks-wu/runner-studio) | Website meines Studios. Konzept, Farbklima und Layout von mir, Umsetzung KI-gestützt. |
 | [pdf-page-size-tool](https://github.com/whks-wu/pdf-page-size-tool) | Führt PDFs mit uneinheitlichen Seitenformaten zusammen und normalisiert sie. Läuft vollständig im Browser — die Dateien verlassen den Rechner nie. Oberfläche auf Deutsch, Englisch und Chinesisch. |
-| [search_engine_NPLhomework](https://github.com/whks-wu/search_engine_NPLhomework) | Studienprojekt: Suchmaschine mit invertiertem Index, TF-IDF-Gewichtung und Porter2-Stemming über einem XML-Korpus. |
+| [search_engine_NPLhomework](https://github.com/whks-wu/search_engine_NLPhomework) | Studienprojekt: Suchmaschine mit invertiertem Index, TF-IDF-Gewichtung und Porter2-Stemming über einem XML-Korpus. |
 | [cycle-schedule-planner](https://github.com/whks-wu/cycle-schedule-planner) | Planungsanwendung, umgebaut von einer einzelnen HTML-Datei auf ein Flask-Backend mit PWA-Frontend, ausgelagerter i18n-Schicht und regelbasierter Auswertungslogik. |
 
 Dazu mehrere Python-Projekte aus meinem autodidaktischen Einstieg — von
@@ -57,7 +57,7 @@ refactored before you put it in front of users.
 | [german-lernwerkstatt](https://github.com/whks-wu/german-lernwerkstatt) | A classroom exercise tool with three exercise types and a visual editor that lets the question bank be maintained without writing a line of code. No framework, no dependencies. [Live](https://runner-german-lernwerkstatt.vercel.app) |
 | [runner-studio](https://github.com/whks-wu/runner-studio) | The website of my teaching studio. Concept, colour scheme and layout are mine; the implementation was AI‑assisted. |
 | [pdf-page-size-tool](https://github.com/whks-wu/pdf-page-size-tool) | Merges and normalises PDFs with mismatched page sizes. Runs entirely in the browser — files never leave your machine. UI in German, English and Chinese. |
-| [search_engine_NPLhomework](https://github.com/whks-wu/search_engine_NPLhomework) | Coursework: a search engine over an XML corpus using an inverted index, TF‑IDF weighting and Porter2 stemming. |
+| [search_engine_NPLhomework](https://github.com/whks-wu/search_engine_NLPhomework) | Coursework: a search engine over an XML corpus using an inverted index, TF‑IDF weighting and Porter2 stemming. |
 | [cycle-schedule-planner](https://github.com/whks-wu/cycle-schedule-planner) | A planning app rewritten from a single HTML file into a Flask backend with a PWA frontend, a separate i18n layer and rule‑based logic. |
 
 Plus several Python projects from teaching myself the language — from Tkinter desktop
